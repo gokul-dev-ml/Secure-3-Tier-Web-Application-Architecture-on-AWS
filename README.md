@@ -18,6 +18,8 @@ The architecture consists of:
 
 <img width="801" height="267" alt="Screenshot From 2026-05-28 15-11-44" src="https://github.com/user-attachments/assets/90d7269d-ea83-4268-84de-246a2a86dc03" />
 
+
+DNS ID:http://3-tier-load-balancer22-489361372.ap-south-1.elb.amazonaws.com/
 ---
 
 # Architecture Components
